@@ -1,0 +1,69 @@
+[
+  {
+    "ID": 1,
+    "Name": "Espresso",
+    "Price": 2.5,
+    "Ingredients": {
+      "Coffee Beans": 1,
+      "Sugar": 1
+    }
+  },
+  {
+    "ID": 2,
+    "Name": "Macchiato",
+    "Price": 3.5,
+    "Ingredients": {
+      "Espresso": 1,
+      "Milk": 2
+    }
+  },
+  {
+    "ID": 3,
+    "Name": "Cappucino",
+    "Price": 4.0,
+    "Ingredients": {
+      "Espresso": 1,
+      "Milk foam": 1,
+      "Steamed milk": 2
+    }
+  },
+  {
+    "ID": 4,
+    "Name": "Latte",
+    "Price": 4.5,
+    "Ingredients": {
+      "Espresso": 1,
+      "Milk foam": 2,
+      "Steamed milk": 1
+    }
+  },
+  {
+    "ID": 5,
+    "Name": "Americano",
+    "Price": 5.5,
+    "Ingredients": {
+      "Espresso": 1,
+      "Coffee beans": 2
+    }
+  },
+  {
+    "ID": 6,
+    "Name": "Mocha",
+    "Price": 7.0,
+    "Ingredients": {
+      "Espresso": 1,
+      "Chocolate syrup": 2,
+      "Steamed milk": 1
+    }
+  },
+  {
+    "ID": 7,
+    "Name": "Nescafe",
+    "Price": 4.5,
+    "Ingredients": {
+      "Instant coffee": 1,
+      "Sugar": 1,
+      "Creamer": 1
+    }
+  }
+]
